@@ -7,6 +7,6 @@ I'm Joshua Sofeso, an aspiring Data Analyst with a passion for extracting valuab
 
 Let's Connect!
 
-I am actively seeking opportunities to grow as a Data Analyst and contribute to meaningful projects. If you're interested in collaborating or have any questions, feel free to reach out to me via [Email/LinkedIn].
+I am actively seeking opportunities to grow as a Data Analyst and contribute to meaningful projects. If you're interested in collaborating or have any questions, feel free to reach out to me via email or LinkedIn.
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
